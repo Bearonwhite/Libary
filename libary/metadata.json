@@ -1,6 +1,0 @@
-{
-  "name": "Warframe Build Backup",
-  "description": "A high-fidelity build backup and editor tool for Warframe, featuring visual mod layouts, arcanes, Helminth selection, and guest/member access controls.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
